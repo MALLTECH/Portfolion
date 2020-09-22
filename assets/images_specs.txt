@@ -1,0 +1,15 @@
+slider welcome sectio
+=====================
+image size: 1920 x 1080
+
+portfolio
+=========
+image size: 800 x 600 
+
+team
+====
+image size: 600 x 600
+
+about
+=====
+image size: 1024 x 1016 
